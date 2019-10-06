@@ -1,0 +1,265 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 39.4050246,
+          "lng": -76.8110176
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.4063089802915,
+            "lng": -76.8097185197085
+          },
+          "southwest": {
+            "lat": 39.4036110197085,
+            "lng": -76.8124164802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "57a57fd8a498dbecd6d62a82e02722b0471bf534",
+      "name": "McDonald's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113323946041809103124/photos\">McDonald&#39;s</a>"
+          ],
+          "photo_reference": "CmRaAAAACVukIV3NhqaWL6TBTqWsk0uVwyrv4A22Zyskuw1GrYCmRm9IYuvpMVPz8pU8IcbTfwGwCqrTVVpqPuwhCz1_xpHA3R8b3wcH-2yLX0AnBMuy7tXMB6Ou39QwQPD9u5cJEhAwV0UJxPHT5XNVjJZU4u1HGhTX3tzLLz182c0Q-u3bI1wzbP-Ovw",
+          "width": 1025
+        }
+      ],
+      "place_id": "ChIJo13_-O4XyIkRZbRQgJhI9Ms",
+      "plus_code": {
+        "compound_code": "C54Q+2H Owings Mills, Maryland, United States",
+        "global_code": "87F5C54Q+2H"
+      },
+      "price_level": 1,
+      "rating": 3,
+      "reference": "ChIJo13_-O4XyIkRZbRQgJhI9Ms",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 665,
+      "vicinity": "9774 Groffs Mill Drive, Owings Mills"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 39.40580050000001,
+          "lng": -76.81155079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.4070834302915,
+            "lng": -76.81025236970849
+          },
+          "southwest": {
+            "lat": 39.4043854697085,
+            "lng": -76.81295033029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4cd643a240dc7453a8e76828d882679546c9284e",
+      "name": "China Wok",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111709274726614989111/photos\">David ACE Livingston</a>"
+          ],
+          "photo_reference": "CmRaAAAALPRGY3_lm3Xqh76dy_J7VynXSJ96NBrWyBN7OXmUzXzKokPweUeSk2r6-Ox7Mt74XnHx9u-Z7MHpVOR4TMbrb_oeUZtS9mIIt2qgxhifrbKN2IRNnfCNfP1WSnYnayfXEhCk6fM_pV8UeBTUfgHY95zbGhT77_uBuIBDAP_DlKTLO0phJCxA2w",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJn3qYHe8XyIkRgGxVIv64A38",
+      "plus_code": {
+        "compound_code": "C54Q+89 Owings Mills, Maryland, United States",
+        "global_code": "87F5C54Q+89"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJn3qYHe8XyIkRgGxVIv64A38",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 66,
+      "vicinity": "9762 Groffs Mill Drive, Owings Mills"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 39.4057957,
+          "lng": -76.8113048
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.4070631802915,
+            "lng": -76.80984666970849
+          },
+          "southwest": {
+            "lat": 39.40436521970851,
+            "lng": -76.8125446302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a61298531346c5c3aa53ac1378711fffe7b3edaa",
+      "name": "America's Best Wings And Seafood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101222747266396984503/photos\">Jungkyun Kim</a>"
+          ],
+          "photo_reference": "CmRaAAAA2B8wwlqCvGukRSri2A136JmAsRKcYaGMY9Mgi4AZK8dsafCpl31cgpzMkwIuJiXYm-lKELtuCiqypLkHmLeBkEZZMFLAFc_Klq2fJgyZYf4c6ehBPyFWpGCBaxLqOHLBEhDhPJ9-Cj8kMATeRvwOlGuuGhRgJCqstrlgE2L7PR-9OqKYMfDdfQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJad5m4-4XyIkRp9wHetO4zBY",
+      "plus_code": {
+        "compound_code": "C54Q+8F Owings Mills, Maryland, United States",
+        "global_code": "87F5C54Q+8F"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJad5m4-4XyIkRp9wHetO4zBY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 169,
+      "vicinity": "9748 Groffs Mill Drive, Owings Mills"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 39.4057111,
+          "lng": -76.8113767
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.40699858029149,
+            "lng": -76.81007021970849
+          },
+          "southwest": {
+            "lat": 39.40430061970849,
+            "lng": -76.81276818029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "132762cfdf4fd3355c39df46065dc6fa09ad7321",
+      "name": "Han's Cafe - Tsam",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103289860601902263338/photos\">Laura Clark</a>"
+          ],
+          "photo_reference": "CmRaAAAAMSzksJOagy6K85jocBfZwR0Dh7w5PkGF5Hh2INzpUOoOEcsoOdbGbibkNWy7S_-c9C1ImZPJsXnnSsWMhuboTDOCoyGEx2btKpxCZPSrQ1QXN2r3X-RUUZXZXlT-RtmFEhAXOlq5t_MMWMsqOKXmaYqcGhQG52emlOcQ3jbxtJAjDBFXWs5MvA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ66W2_O4XyIkRHQZIlEaiAk4",
+      "plus_code": {
+        "compound_code": "C54Q+7C Owings Mills, Maryland, United States",
+        "global_code": "87F5C54Q+7C"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ66W2_O4XyIkRHQZIlEaiAk4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101,
+      "vicinity": "9754 Groffs Mill Drive, Owings Mills"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 39.40573690000001,
+          "lng": -76.8114097
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.4070196802915,
+            "lng": -76.81010646970849
+          },
+          "southwest": {
+            "lat": 39.4043217197085,
+            "lng": -76.81280443029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d3e0ce47276a964ba5b1161b8771c1828fe7fa76",
+      "name": "Tsam's Bagel Bin Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109636225609954826053/photos\">Ashley Simmons</a>"
+          ],
+          "photo_reference": "CmRaAAAAJG7xfUQPIlX7dLgV9JSFf5gt-nbBJCN4tPg22KZRSXw_S5ZU8dJov3O99JBEp4dCbTncEcp6uQWbSt3Ra5TwsrI_2W4Fz07uOQZhanpB73xycnLp8hVw3SDtzqeRzdmsEhBi-hoYO7QBL3zvXhE_Ls1YGhRaqAafX0sWhC73ckri-e-yvvVU9g",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ66W2_O4XyIkR5gcO3Uu1VXY",
+      "plus_code": {
+        "compound_code": "C54Q+7C Owings Mills, Maryland, United States",
+        "global_code": "87F5C54Q+7C"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ66W2_O4XyIkR5gcO3Uu1VXY",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "9754 Groffs Mill Drive, Owings Mills"
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,10 @@
+{
+  "key" : "AIzaSyAiAy5Y92XGJhVZdl5CcmCB0LFX-mGpp6Y",
+  "input" : "food",
+  "inputtype" : "textquery",
+  "fields" : "photos,formatted_address,name,opening_hours,rating",
+  "locationbias" : "circle : 2000@39.398037,-76.817085",
+  "location" : "39.398037,-76.817085",
+  "radius" : "1000",
+  "type" : "restaurant"
+}

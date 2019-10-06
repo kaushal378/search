@@ -1,0 +1,8 @@
+spring:
+  profiles: local
+
+  application:
+    name: search
+
+server:
+  port: 7000
